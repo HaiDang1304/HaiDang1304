@@ -1,14 +1,13 @@
 # 👋 Xin chào! Tôi là [Lữ Hải Đăng]
-![Welcome GIF](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
+![Welcome GIF](https://images.app.goo.gl/QUFD5SoxQ2AUgpPb8)
 ## 🌐 Mạng xã hội
 - 🔗 [Faceboock](https://web.facebook.com/luhaidang04/)
-- 🔗 [GitHub](https://github.com/ten-github)
+- 🔗 [GitHub](https://github.com/HaiDang1304)
 - ✉️ Email: haidanglu2004@gmail.com
 
 ## 💻 Về tôi
 Tôi là một lập trình viên đam mê công nghệ với kinh nghiệm trong lĩnh vực:
 - 💼 Web development (PHP, JavaScript, HTML, CSS)
-- 📱 Mobile apps (Android Studio, Firebase)
 - 🧠 Machine learning & An ninh mạng (Suricata, IDS, botnet detection)
 - 🛠 Cơ sở dữ liệu (MySQL, SQL Server)
 
@@ -23,7 +22,6 @@ Tôi là một lập trình viên đam mê công nghệ với kinh nghiệm tron
 ### 🚍 Hệ thống quản lý xe khách liên tỉnh
 - Quản lý đặt vé, đăng nhập, xác thực qua Firebase/Google
 - Giao diện người dùng trực quan
-- Kết nối với MySQL, SQL Server
 - Gửi email xác thực và khuyến mãi (SendGrid + Firebase)
 
 ### 🛡️ Hệ thống phát hiện botnet tấn công web
