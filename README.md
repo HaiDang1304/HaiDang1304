@@ -1,5 +1,5 @@
 # 👋 Xin chào! Tôi là [Lữ Hải Đăng]
-![Welcome GIF](https://images.app.goo.gl/QUFD5SoxQ2AUgpPb8)
+![Welcome GIF](https://github.com/HaiDang1304/HaiDang1304/blob/main/223e6792880429.5e569ff84ebef.gif)
 ## 🌐 Mạng xã hội
 - 🔗 [Faceboock](https://web.facebook.com/luhaidang04/)
 - 🔗 [GitHub](https://github.com/HaiDang1304)
