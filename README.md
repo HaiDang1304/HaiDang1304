@@ -18,16 +18,6 @@ Tôi là một lập trình viên đam mê công nghệ với kinh nghiệm tron
 - Công cụ: Git, VS Code, XAMPP
 - Hệ điều hành: Ubuntu, Windows
 
-## 📈 Dự án tiêu biểu
-### 🚍 Hệ thống quản lý xe khách liên tỉnh
-- Quản lý đặt vé, đăng nhập, xác thực qua Firebase/Google
-- Giao diện người dùng trực quan
-- Gửi email xác thực và khuyến mãi (SendGrid + Firebase)
-
-### 🛡️ Hệ thống phát hiện botnet tấn công web
-- Sử dụng Suricata và VirtualBox trên Ubuntu
-- Tạo botnet mô phỏng để test hệ thống IDS
-- Ghi log và phân tích lưu lượng tấn công
 
 ## 📫 Liên hệ
 Bạn có thể liên hệ với tôi qua email hoặc các nền tảng mạng xã hội ở trên. Tôi luôn sẵn sàng hợp tác và chia sẻ kiến thức!
