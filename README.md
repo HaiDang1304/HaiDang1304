@@ -6,7 +6,6 @@
 - ✉️ Email: haidanglu2004@gmail.com
 
 ## 💻 Về tôi
-Tôi là một lập trình viên đam mê công nghệ với kinh nghiệm trong lĩnh vực:
 - 💼 Web development (PHP, JavaScript, HTML, CSS)
 - 🧠 Machine learning & An ninh mạng (Suricata, IDS, botnet detection)
 - 🛠 Cơ sở dữ liệu (MySQL, SQL Server)
