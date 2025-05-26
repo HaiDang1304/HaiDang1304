@@ -16,7 +16,7 @@ Tôi là một lập trình viên đam mê công nghệ với kinh nghiệm tron
 - Frameworks: Bootstrap, Tailwindcss
 - Cơ sở dữ liệu: MySQL, SQL Server
 - Công cụ: Git, VS Code, XAMPP
-- Hệ điều hành: Ubuntu, Windows
+- Hệ điều hành: Ubuntu, Windows, Kali Linux
 
 
 ## 📫 Liên hệ
