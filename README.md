@@ -1,6 +1,6 @@
 ![Welcome GIF](https://github.com/HaiDang1304/HaiDang1304/blob/main/bpxxqqvps4h91.gif)
 ## 🌐 Mạng xã hội
-- 🔗 [Faceboock](https://web.facebook.com/luhaidang04/)
+- 🔗 [Faceboock](https://facebook.com/luhaidang04)
 - 🔗 [GitHub](https://github.com/HaiDang1304)
 - ✉️ Email: haidanglu2004@gmail.com
 
