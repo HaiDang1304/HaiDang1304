@@ -50,31 +50,6 @@
 
 ---
 
-##  Tech Stack
 
-<table>
-  <tr>
-    <td><b>Frontend</b></td>
-    <td>HTML, CSS, JavaScript, ReactJS, Tailwind CSS</td>
-  </tr>
-  <tr>
-    <td><b>Backend</b></td>
-    <td>NodeJS, ExpressJS</td>
-  </tr>
-  <tr>
-    <td><b>Database</b></td>
-    <td>MongoDB, MySQL, Firebase</td>
-  </tr>
-  <tr>
-    <td><b>Tools</b></td>
-    <td>Git, GitHub, VS Code, Linux</td>
-  </tr>
-</table>
 
----
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:7F00FF&height=120&section=footer" />
-
-</div>
