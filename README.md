@@ -1,34 +1,32 @@
-````md
 <div align="center">
 
 <img src="https://github.com/HaiDang1304/HaiDang1304/blob/main/bpxxqqvps4h91.gif" width="100%" />
 
-# 👋 Hi, I'm Hải Đăng
+<h1>👋 Hi, I'm Hải Đăng</h1>
 
-### 🚀 Web Developer | Fullstack Learner | Tech Enthusiast
+<h3>🚀 Web Developer | Fullstack Learner | Tech Enthusiast</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile;I+love+building+modern+websites;Frontend+%7C+Backend+%7C+Database" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile;I+love+building+modern+websites;Frontend+%7C+Backend+%7C+Database" />
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-```javascript
-const haiDang = {
-  name: "Hải Đăng",
-  role: "Web Developer",
-  focus: ["Frontend", "Backend", "Database"],
-  learning: ["ReactJS", "NodeJS", "ExpressJS", "MongoDB", "MySQL"],
-  goal: "Build beautiful and useful web applications",
-  contact: "haidanglu2004@gmail.com"
-};
-````
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+- 🎓 I am a student who loves web development
+- 💻 I am learning Frontend and Backend development
+- 🌱 Currently learning ReactJS, NodeJS, ExpressJS, MongoDB and MySQL
+- 🎯 My goal is to build useful and beautiful web applications
+- 📫 Contact me: **haidanglu2004@gmail.com**
+
+<br clear="right"/>
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="left">
   <a href="https://facebook.com/luhaidang04" target="_blank">
@@ -42,39 +40,54 @@ const haiDang = {
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Languages and Tools
 
 <div align="center">
 
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-
-### Database & Cloud
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,gcp" />
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,mysql,firebase,gcp,git,github,vscode,linux" />
 
 </div>
 
 ---
 
-# 📊 GitHub Analytics
+## 🚀 Tech Stack
+
+<table>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>HTML, CSS, JavaScript, ReactJS, Tailwind CSS</td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>NodeJS, ExpressJS</td>
+  </tr>
+  <tr>
+    <td><b>Database</b></td>
+    <td>MongoDB, MySQL, Firebase</td>
+  </tr>
+  <tr>
+    <td><b>Tools</b></td>
+    <td>Git, GitHub, VS Code, Linux</td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=HaiDang1304&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=HaiDang1304&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaiDang1304&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaiDang1304&layout=compact&theme=tokyonight&hide_border=true" />
 
-<br/>
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
 
 <img width="60%" src="https://streak-stats.demolab.com?user=HaiDang1304&theme=tokyonight&hide_border=true" />
 
@@ -82,11 +95,11 @@ const haiDang = {
 
 ---
 
-# 🐍 Contribution Snake
+## ✨ Quote
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/HaiDang1304/HaiDang1304/output/snake.svg" alt="Snake animation" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
 </div>
 
@@ -97,4 +110,3 @@ const haiDang = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:7F00FF&height=120&section=footer" />
 
 </div>
-```
