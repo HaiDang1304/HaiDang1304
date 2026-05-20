@@ -1,65 +1,92 @@
+````md
 <div align="center">
 
-![Welcome GIF](https://github.com/HaiDang1304/HaiDang1304/blob/main/bpxxqqvps4h91.gif)
+<img src="https://github.com/HaiDang1304/HaiDang1304/blob/main/bpxxqqvps4h91.gif" width="100%" />
 
-# 👋 Xin chào, mình là Hải Đăng
+# 👋 Hi, I'm Hải Đăng
 
-### 💻 Web Developer | Frontend & Backend Learner
+### 🚀 Web Developer | Fullstack Learner | Tech Enthusiast
 
-Mình đang học và phát triển các dự án web với HTML, CSS, JavaScript, ReactJS, NodeJS và cơ sở dữ liệu.  
-Mục tiêu của mình là xây dựng các sản phẩm có giao diện đẹp, dễ sử dụng và có tính ứng dụng thực tế.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile;I+love+building+modern+websites;Frontend+%7C+Backend+%7C+Database" />
 
 </div>
 
 ---
 
-## 🚀 Giới thiệu nhanh
+# 👨‍💻 About Me
 
-- 🎓 Sinh viên yêu thích lập trình web
-- 🌱 Đang học và thực hành: ReactJS, NodeJS, ExpressJS, MongoDB, MySQL
-- 🔧 Quan tâm đến xây dựng website, hệ thống quản lý và ứng dụng thực tế
-- 📫 Email: **haidanglu2004@gmail.com**
+```javascript
+const haiDang = {
+  name: "Hải Đăng",
+  role: "Web Developer",
+  focus: ["Frontend", "Backend", "Database"],
+  learning: ["ReactJS", "NodeJS", "ExpressJS", "MongoDB", "MySQL"],
+  goal: "Build beautiful and useful web applications",
+  contact: "haidanglu2004@gmail.com"
+};
+````
 
 ---
 
-## 🌐 Kết nối với mình
+# 🌐 Connect With Me
 
 <p align="left">
   <a href="https://facebook.com/luhaidang04" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
+
   <a href="mailto:haidanglu2004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🛠️ Languages and Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,mysql,firebase,gcp,linux" />
-</p>
-
----
-
-## 📊 GitHub Stats
+# 🛠️ Tech Stack
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=HaiDang1304&show_icons=true&theme=tokyonight&hide_border=true" />
+### Frontend
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaiDang1304&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+### Database & Cloud
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,gcp" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 
 </div>
 
 ---
 
-## 🔥 GitHub Streak
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=HaiDang1304&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=HaiDang1304&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaiDang1304&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img width="60%" src="https://streak-stats.demolab.com?user=HaiDang1304&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/HaiDang1304/HaiDang1304/output/snake.svg" alt="Snake animation" />
 
 </div>
 
@@ -67,6 +94,7 @@ Mục tiêu của mình là xây dựng các sản phẩm có giao diện đẹp
 
 <div align="center">
 
-### ✨ Cảm ơn bạn đã ghé thăm GitHub của mình ✨
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:7F00FF&height=120&section=footer" />
 
 </div>
+```
