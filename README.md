@@ -2,9 +2,9 @@
 
 <img src="https://github.com/HaiDang1304/HaiDang1304/blob/main/bpxxqqvps4h91.gif" width="100%" />
 
-<h1>👋 Hi, I'm Hải Đăng</h1>
+<h1> Hi, I'm Hải Đăng</h1>
 
-<h3>🚀 Web Developer | Fullstack Learner | Tech Enthusiast</h3>
+<h3> Web Developer | Fullstack Learner | Tech Enthusiast</h3>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile;I+love+building+modern+websites;Frontend+%7C+Backend+%7C+Database" />
 
@@ -12,21 +12,21 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-- 🎓 I am a student who loves web development
-- 💻 I am learning Frontend and Backend development
-- 🌱 Currently learning ReactJS, NodeJS, ExpressJS, MongoDB and MySQL
-- 🎯 My goal is to build useful and beautiful web applications
-- 📫 Contact me: **haidanglu2004@gmail.com**
+-  I am a student who loves web development
+-  I am learning Frontend and Backend development
+-  Currently learning ReactJS, NodeJS, ExpressJS, MongoDB and MySQL
+-  My goal is to build useful and beautiful web applications
+-  Contact me: **haidanglu2004@gmail.com**
 
 <br clear="right"/>
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <p align="left">
   <a href="https://facebook.com/luhaidang04" target="_blank">
@@ -40,7 +40,7 @@
 
 ---
 
-## 🛠️ Languages and Tools
+##  Languages and Tools
 
 <div align="center">
 
@@ -50,7 +50,7 @@
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 <table>
   <tr>
@@ -70,38 +70,6 @@
     <td>Git, GitHub, VS Code, Linux</td>
   </tr>
 </table>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=HaiDang1304&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaiDang1304&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img width="60%" src="https://streak-stats.demolab.com?user=HaiDang1304&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## ✨ Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-</div>
 
 ---
 
